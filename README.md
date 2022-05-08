@@ -2,6 +2,10 @@
 This repository contains programs that allow to create a collection of documents from Habr website and prepare this collection for further data analysis.
 
 
+The aim of this project is to create a collection of documents that contains around 100000 papers from Habr website. 
+This collection is needed in further data analysis.
+
+
 There are two python scripts.
 
 The first one, which is called create_raw_collection.py allows to create collection of the documents from Habr website. 
@@ -17,4 +21,5 @@ then 2000 characters, moreover, all lists with info are cleaned from unprinted s
 of the file which is called "cleaned_collection" which is a csv file that is made by converting list of papers into DataFrame object using pandas library.
 
 
-All the requirements are written in requirements.txt file.
+
+All the requirements are written in Requirements.txt file.
