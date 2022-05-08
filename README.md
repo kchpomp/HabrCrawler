@@ -23,3 +23,5 @@ of the file which is called "cleaned_collection" which is a csv file that is mad
 
 
 All the requirements are written in Requirements.txt file.
+
+You can access the resulting "data_collection" and "cleaned_collection" by passing through the link: https://drive.google.com/drive/folders/1do9FHo_-CIsys9UhpWdwaFLuHbSA7RHr?usp=sharing
